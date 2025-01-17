@@ -1,4 +1,4 @@
-package com.pft_system.Personal_Finance_Tracker.entity;
+package com.pft_system.Personal_Finance_Tracker.model.entity;
 
 import jakarta.persistence.*;
 
